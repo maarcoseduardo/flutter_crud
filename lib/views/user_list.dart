@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_crud/Widgets/user_tile.dart';
+import 'package:flutter_crud/widgets/user_tile.dart';
 import 'package:flutter_crud/provider/users.dart';
 import 'package:flutter_crud/routes/app_routes.dart';
 import 'package:provider/provider.dart';
